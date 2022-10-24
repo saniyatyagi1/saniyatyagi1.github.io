@@ -14,6 +14,7 @@ a {
 }
                         
 .intro {
+    text-align: center;
     font-family: Arial, sans-serif;   
     margin: 3%;
 }
