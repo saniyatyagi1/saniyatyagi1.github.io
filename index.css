@@ -1,0 +1,61 @@
+body {
+    margin: 2%;
+}     
+
+.alerts {  
+    margin-top: 50px;              
+    padding: 5px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+                        
+.intro {
+    font-family: Arial, sans-serif;
+    background-image: url(images/pic.jpg);   
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-position: center;
+    margin: 3%;
+}
+
+section {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.summary {
+    color: white;
+    background-color: #282828;
+    padding: 5px;
+    margin: 3%;
+    box-sizing: border-box;
+}
+
+.summary:hover {
+    background-color: white;
+    color: black;
+}
+
+.summary > a:hover {
+    color: black;
+}
+
+span {
+    color: red;
+}
+
+.palestine {
+    display: flex;
+}
+
+.palestine > div {
+    margin: 2%;
+    padding: 5px;
+}         
+
+footer {
+    background-color: rgb(43, 145, 128);
+    }
