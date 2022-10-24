@@ -14,11 +14,7 @@ a {
 }
                         
 .intro {
-    font-family: Arial, sans-serif;
-    background-image: url(images/pic.jpg);   
-    background-repeat: no-repeat; 
-    background-size: contain;
-    background-position: center;
+    font-family: Arial, sans-serif;   
     margin: 3%;
 }
 
@@ -45,16 +41,7 @@ section {
 
 span {
     color: red;
-}
-
-.palestine {
-    display: flex;
-}
-
-.palestine > div {
-    margin: 2%;
-    padding: 5px;
-}         
+}       
 
 footer {
     background-color: rgb(43, 145, 128);
